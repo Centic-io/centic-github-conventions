@@ -2,6 +2,7 @@ Table of Contents
 =================
 
 * [Repository](#repository)
+* [Rule](#rule)
 * [Commit](#commit)
    * [Tính nguyên tử](#tính-nguyên-tử)
    * [Những thay đổi trong commit](#những-thay-đổi-trong-commit)
@@ -23,6 +24,10 @@ Không hợp lệ:
 **![](images/camel.png)**  
 Hợp lệ:  
 **![](images/kebab.png)**
+
+# Rule
+
+Chỉ có **admin** mới có quyền push và merge trên nhánh *develop* và *main*. 
 
 # Commit
 
